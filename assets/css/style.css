@@ -1,0 +1,592 @@
+body {
+	margin: 0px;
+}
+
+/*Name banner*/
+
+.container {
+	width: 1081px;
+	height: 70px;
+	background-color: #ffffff;
+	border-bottom: solid;
+	border-color: rgb(215,215,215);
+	border-width: 1.5px;
+}
+
+.box {
+	width: 225px; height: 70px;
+	margin-left: 130px;
+	background-color:#4aaaa5;
+}
+
+.name {
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	color: #fffefc;
+  	position: relative;
+    left: 0;
+    margin: 0;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+}
+
+/*links between pages*/
+
+.contact {
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	color: #a6a6a6;
+	font-size: 15px;
+	font-weight: 575;
+	text-decoration: none;
+	bottom: 44px;
+	float: right;
+	padding-left: 10px;
+	padding-right: 190px;
+	position: relative;
+	z-index: 2;
+}
+
+.portfolio {
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	color: #a6a6a6;
+	font-size: 15px;
+	font-weight: 575;
+	text-decoration: none;
+	bottom: 44px;
+	float: right;
+	border-left: solid;
+	border-right: solid;
+	border-width: 1px;
+	border-color: #f1f1f1;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	z-index: 2;
+}
+
+.about {
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	color: #a6a6a6;
+	font-size: 15px;
+	font-weight: 575;
+	text-decoration: none;
+	bottom: 44px;
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+	position: relative;
+	z-index: 2;
+
+}
+
+/*Background Image*/
+
+.stone {
+	position: absolute;
+	height: 475px;
+	width: 1081px;
+}
+
+.stone2 {
+	position: absolute;
+	height: 515px;
+	width: 1081px;
+}
+
+.stone3 {
+	position: absolute;
+	height: 760px;
+	width: 1081px;
+}
+
+/*Copyright banner*/
+
+.copy {
+	text-align: center;
+	width: 221px;
+	color: #c1c1c1;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	z-index: 1;
+	margin: 475px 0px 0px 0px;
+	padding-left: 430px;
+	padding-right: 430px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: solid;
+	border-width: 7px;
+	border-color: #4aaaa5;
+	background-color: #6f6f6f;
+	font-size: 15px;
+}
+
+.copy2 {
+	text-align: center;
+	color: #c1c1c1;
+	width: 221px;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	z-index: 1;
+	margin: 515px 0px 0px 0px;
+	padding-left: 430px;
+	padding-right: 430px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: solid;
+	border-width: 7px;
+	border-color: #4aaaa5;
+	background-color: #6f6f6f;
+	font-size: 15px;
+}
+
+.copy3 {
+	text-align: center;
+	width: 221px;
+	color: #c1c1c1;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	z-index: 1;
+	margin: 760px 0px 0px 0px;
+	padding-left: 430px;
+	padding-right: 430px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: solid;
+	border-width: 7px;
+	border-color: #4aaaa5;
+	background-color: #6f6f6f;
+	font-size: 15px;
+}
+
+/*Social media links*/
+
+.box2 {
+	width: 200px; height: 150px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(225,225,225);	
+	float: left;
+	margin-left: 675px;
+	margin-top: 30px;
+	position: absolute;
+	z-index: 3;
+}
+
+.box4 {
+	width: 200px; height: 150px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(225,225,225);	
+	float: left;
+	margin-left: 544px;
+	margin-top: -416px;
+	z-index: 3;
+}
+
+.cwm {
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	color: #51a9a4;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: #f1f1f1;
+	padding: 15px 12px 15px 0px;
+	margin-top: 0px;
+	margin-left: 23px;
+	float: left;
+	position: relative;
+}
+
+.githubb {
+	width: 45px;
+	height: 45px;
+	margin-left: 24px;
+	margin-bottom: 2.5px;
+}
+
+.linkedinn {
+	width: 50px;
+	height: 50px;
+
+}
+
+.stacko {
+	width: 45px;
+	height: 45px;
+	margin-bottom: 2.5px;
+}
+
+/*About me*/
+
+.box1 {
+	width: 510px; height: 410px;
+	border-style: solid;
+	border-color: rgb(225,225,225);
+	border-width: 1px;
+	background-color: #ffffff;
+	float:left;
+	margin-left: 130px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.words {
+	float: left;
+	width: 450px;
+	margin: -158px 0px 0px 25px;
+	position: relative;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	font-size: 15px;
+	color: #88888b;
+	font-weight: 599;
+}
+
+.words2 {
+	margin-left: 175px;
+}
+
+.photo {
+	width: 150px;
+	height: 115px;
+	margin: 77.5px 0 0 5px;
+	padding: 20px;
+}
+
+.aboutme {
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	position: absolute;
+	z-index: 4;
+	color: #51a9a4;
+	padding: 6px 340px 20px 0px;
+	margin-left: 25px;
+	float:left;
+	border-bottom: solid;
+	border-width: 2px;
+	border-color: rgb(225,225,225);	
+}
+
+/*contact form*/
+.box3 {
+	width: 510px; height: 450px;
+	border-style: solid;
+	border-color: rgb(225,225,225);
+	border-width: 1px;
+	background-color: #ffffff;
+	float:left;
+	margin-left: 130px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.contactM {
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	position: relative;
+	z-index: 4;
+	color: #51a9a4;
+	padding: 8px 363px 18px 0px;
+	margin-left: 25px;
+	width: 95px;
+	border-bottom: solid;
+	border-width: 2px;
+	border-color: rgb(225,225,225);	
+}
+
+input[type=text], select, textarea {
+    width: 460px;
+    padding: 5px;
+	border-color: rgb(225,225,225);	
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 9px 25px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    margin-left: 25px;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.labels {
+	position: relative;
+	margin-left: 25px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	color: #929295;
+	font-weight: 599px;
+}
+
+.placeholder {
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	font-weight: 400px;
+}
+
+/*Portfolio with photo links*/
+
+.box5 {
+	width: 510px; height: 695px;
+	border-style: solid;
+	border-color: rgb(225,225,225);
+	border-width: 1px;
+	background-color: #ffffff;
+	float:left;
+	margin-left: 130px;
+	margin-top: 30px;
+	position: relative;
+}
+
+.portfolio2 {
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	position: relative;
+	z-index: 4;
+	color: #51a9a4;
+	padding: 6px 350px 20px 0px;
+	margin-left: 25px;
+	float:left;
+	border-bottom: solid;
+	border-width: 2px;
+	border-color: rgb(225,225,225);	
+ }
+
+#aqua {
+
+	margin: 10px 15px 35px 25px;
+	position: relative;
+	float: left;
+	z-index: 2;
+
+}
+
+.size {
+	width: 215px;
+	height: 155px;
+}
+
+#ween {
+	margin: 10px 25px 35px 15px;
+	float: left;
+	position: relative;
+}
+
+#NHpond {	
+
+	margin: 10px 15px 35px 25px;
+	position: relative;
+	float: left;
+}
+
+#gladeclimb {
+	margin: 10px 25px 35px 15px;
+	float: left;
+	position: relative;
+}
+
+#rose {
+	margin: 10px 15px 35px 25px;
+	position: relative;
+	float: left;
+}
+
+#choppo {
+	margin: 10px 25px 35px 15px;
+	float: left;
+	position: relative;
+}
+
+/* text banner over photo links */
+
+.centertext {
+	text-align: center;
+	margin-top: 13px;
+	color: white;
+	font-family: "Georgia", "Times", "Times New Roman", "serif";
+	font-weight: 100;
+}
+
+.box6 {
+	width: 215px; 
+	height: 50px;
+	background-color: rgb(81,169,164);
+	z-index: 4;
+	position: absolute;
+}
+
+.box61 {
+	width: 215px; 
+	height: 50px;
+	background-color: rgba(81,169,164, .30);
+	z-index: 4;
+	position: absolute;
+}
+
+.box6a {
+	margin: 203px 0px 0px 25px;
+}
+
+.box6b {
+	margin: 203px 0px 0px 270px;
+}
+	
+.box6c {
+	margin: 403px 0px 0px 25px;
+}
+
+.box6d {
+	margin: 403px 0px 0px 270px;
+}
+
+.box6e {
+	margin: 603px 0px 0px 25px;
+}
+
+.box6f {
+	margin: 603px 0px 0px 270px;
+}
+
+/*media query for laptops*/
+
+@media screen and (max-width: 980px) {
+
+/*header*/
+
+.container {
+	width: 980px;
+}
+
+/*background image*/
+
+.stone {
+	width: 980px;
+	height: 765px;
+}
+
+.stone2 {
+	width: 980px;
+	height: 505px;
+}
+
+.stone3 {
+	width: 980px;
+	height: 2225px;
+}
+
+/*footer*/
+
+.copy{
+	max-width: 980px;
+	padding-right: 380px;
+	padding-left: 380px;
+	margin-top: 765px;
+}
+
+.copy2 {
+	max-width: 980px;
+	padding-right: 380px;
+	padding-left: 380px;
+	margin-top: 505px;
+}
+
+.copy3 {
+	max-width: 980px;
+	padding-right: 380px;
+	padding-left: 380px;
+	margin-top: 2225px;
+}
+
+/*page links*/
+
+.contact {
+	padding-right: 140px;
+}
+
+/*about me box*/
+
+.box1 {
+	width: 450px;
+	height: 700px;
+}
+
+.aboutme {
+	width: 150px;
+	padding-right: 250px;
+}
+
+.photo {
+	width: 400px;
+	height: 300px;
+}
+
+.words {
+	margin-top: -20px;
+	width: 400px;
+}
+
+.words2 {
+	margin-left: 0px;
+}
+
+/*contact form*/
+
+.box3 {
+	width: 450px;
+	height: 440px;
+}
+
+input[type=text], select, textarea {
+	width: 400px;
+}
+
+.contactM {
+	width: 150px;
+	padding-right: 250px;
+}
+
+/*portfolio box*/
+
+.box5 {
+	width: 450px;
+	height: 2160px;
+}
+
+.portfolio2 {
+	width: 150px;
+	padding-right: 250px;	
+}
+
+.size {
+	width: 400px;
+	height: 300px;
+}
+
+
+/*social media links*/
+
+.box2 { margin-left: 615px;
+}
+
+.box4 { margin-left: 485px;
+}
+
+/*media query for tablets*/
+
+@media screen and (max-width: 768px) {
+
+}
+
+/*media query for phone*/
+
+@media screen and (max-width: 640px) {
+
+}
