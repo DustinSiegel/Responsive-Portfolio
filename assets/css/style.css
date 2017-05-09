@@ -470,7 +470,7 @@ input[type=submit]:hover {
 
 /*media query for laptops*/
 
-@media screen and (max-width: 980px) and (min-width: 768px) {
+@media screen and (max-width: 980px) and (min-width: 769px) {
 
 /*header*/
 
@@ -647,7 +647,7 @@ input[type=submit]:hover {
 
 /*media query for tablets*/
 
-@media screen and (max-width: 768px) and (min-width: 640px) {
+@media screen and (max-width: 768px) and (min-width: 641px) {
 
 /*header*/
 
@@ -745,11 +745,6 @@ input[type=submit]:hover {
 	}
 
 }
-
-
-
-
-
 
 /*media query for phone*/
 
